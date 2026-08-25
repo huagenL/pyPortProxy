@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.tmp/
+.coverage
+htmlcov/
+docs/
+
+# 打包产物与中间物
+build/
+dist/
+
+# IDE
+.idea/
+.vscode/
+!/docs/
